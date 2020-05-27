@@ -1,0 +1,35 @@
+// co ban html
+<strike> chu gach ngang
+<em> chu nghieng
+<u> chu gach chan
+<strong> khoe manh
+<input> nhap trong form
+<textarea> giong <input> nhung dai hon " chi ho trợ cho placeholder
+// css (cascading style sheet)  quần áo, trang sức
+3 cách 
+
+block element, inline element
+
+block: chiếm toàn bộ khoảng trắng
+inline: hiển thị theo phần tử
+
+font-weight: đậm nhạt 
+// cách phối máu 
+3 cách: 
++ trực tiếp
++ mã màu hexan
++ rgb(red, green, blue)
++ rgba(red, green, blue, alpha(độ mờ))
+// chú ý dùng màu
++ chỉ nên dùng một màu cho website
++ các màu khác chỉ nên đậm hoặc nhạt
+<flatuicolor>
+// Css model box
+content: nội dung(text,image)
+padding: khoảng cách content đến border
+Border: viền bao xung quanh
+Margin: Khoảng cách từ border của element này đấy element khác
+width, height: content
+// lí do để border box
+dễ dàng padding và border tránh mặc định, giúp căn chỉnh element
+dễ dàng tránh nhầm lẫn và khó bảo trì
